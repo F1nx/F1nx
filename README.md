@@ -9,4 +9,4 @@ Also, here's a way for you to get to know what I'm up to based on my GitHub prof
   * Topics: *Subjects that I am quite interested in learning about or currently exploring.*
 * Projects: *Things I may be working on. Could be stale.*
 
-If you would like to contact me and I have given you my information, my public key is avaliable [here](https://raw.githubusercontent.com/fr33roam3r/fr33roam3r/master/publickey.asc).
+If you would like to contact me and I have given you my information, my public key is avaliable [on this repository](https://raw.githubusercontent.com/fr33roam3r/fr33roam3r/master/publickey.asc).
