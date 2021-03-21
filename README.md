@@ -7,6 +7,7 @@ Here's a way for you to get to know what I'm up to based on my GitHub profile:
 * [Stars](https://github.com/F1nx?tab=stars): *Software I may actively use.*
   * Topics: *Subjects that I am interested in.*
 * [Projects](https://github.com/F1nx?tab=projects): *Things I may be working on long-term.*
+  * (You may find that I like to delete my todos after they have been accomplished.)
 
 Interested in the [GitHub Support Community](https://github.community/)? Find me [here](https://github.community/u/f1nx/summary)!
 
